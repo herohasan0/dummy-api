@@ -1,0 +1,2543 @@
+{
+  "activeUsers": 18765,
+  "sessions": 20341,
+  "returnedUsers": 5321,
+  "registeredUsers": 721,
+  "timeSeriesData": [
+    {
+      "date": "2023-01-01",
+      "userCount": 30,
+      "eventSum": 13,
+      "eventPerUser": 0.7,
+      "platform": "App"
+    },
+    {
+      "date": "2023-01-02",
+      "userCount": 20,
+      "eventSum": 11,
+      "eventPerUser": 0.72,
+      "platform": "App"
+    },
+    {
+      "date": "2023-01-03",
+      "userCount": 18,
+      "eventSum": 16,
+      "eventPerUser": 0.95,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-01-04",
+      "userCount": 25,
+      "eventSum": 11,
+      "eventPerUser": 0.98,
+      "platform": "App"
+    },
+    {
+      "date": "2023-01-05",
+      "userCount": 14,
+      "eventSum": 7,
+      "eventPerUser": 0.59,
+      "platform": "App"
+    },
+    {
+      "date": "2023-01-06",
+      "userCount": 28,
+      "eventSum": 17,
+      "eventPerUser": 0.97,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-01-07",
+      "userCount": 20,
+      "eventSum": 7,
+      "eventPerUser": 0.68,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-01-08",
+      "userCount": 17,
+      "eventSum": 18,
+      "eventPerUser": 0.88,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-01-09",
+      "userCount": 26,
+      "eventSum": 20,
+      "eventPerUser": 0.54,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-01-10",
+      "userCount": 22,
+      "eventSum": 8,
+      "eventPerUser": 0.7,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-01-11",
+      "userCount": 23,
+      "eventSum": 15,
+      "eventPerUser": 0.89,
+      "platform": "App"
+    },
+    {
+      "date": "2023-01-12",
+      "userCount": 16,
+      "eventSum": 10,
+      "eventPerUser": 0.61,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-01-13",
+      "userCount": 28,
+      "eventSum": 17,
+      "eventPerUser": 0.85,
+      "platform": "App"
+    },
+    {
+      "date": "2023-01-14",
+      "userCount": 30,
+      "eventSum": 17,
+      "eventPerUser": 0.54,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-01-15",
+      "userCount": 26,
+      "eventSum": 19,
+      "eventPerUser": 0.56,
+      "platform": "App"
+    },
+    {
+      "date": "2023-01-16",
+      "userCount": 18,
+      "eventSum": 19,
+      "eventPerUser": 0.78,
+      "platform": "App"
+    },
+    {
+      "date": "2023-01-17",
+      "userCount": 24,
+      "eventSum": 16,
+      "eventPerUser": 0.8,
+      "platform": "App"
+    },
+    {
+      "date": "2023-01-18",
+      "userCount": 10,
+      "eventSum": 13,
+      "eventPerUser": 0.68,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-01-19",
+      "userCount": 15,
+      "eventSum": 15,
+      "eventPerUser": 0.89,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-01-20",
+      "userCount": 26,
+      "eventSum": 9,
+      "eventPerUser": 0.53,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-01-21",
+      "userCount": 16,
+      "eventSum": 18,
+      "eventPerUser": 0.88,
+      "platform": "App"
+    },
+    {
+      "date": "2023-01-22",
+      "userCount": 10,
+      "eventSum": 12,
+      "eventPerUser": 0.69,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-01-23",
+      "userCount": 22,
+      "eventSum": 8,
+      "eventPerUser": 0.53,
+      "platform": "Web"
+    },
+
+    {
+      "date": "2023-01-24",
+      "userCount": 18,
+      "eventSum": 19,
+      "eventPerUser": 0.89,
+      "platform": "App"
+    },
+    {
+      "date": "2023-01-25",
+      "userCount": 10,
+      "eventSum": 13,
+      "eventPerUser": 0.68,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-01-26",
+      "userCount": 15,
+      "eventSum": 15,
+      "eventPerUser": 0.89,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-01-27",
+      "userCount": 26,
+      "eventSum": 9,
+      "eventPerUser": 0.53,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-01-28",
+      "userCount": 16,
+      "eventSum": 18,
+      "eventPerUser": 0.88,
+      "platform": "App"
+    },
+    {
+      "date": "2023-01-29",
+      "userCount": 10,
+      "eventSum": 12,
+      "eventPerUser": 0.69,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-01-30",
+      "userCount": 22,
+      "eventSum": 8,
+      "eventPerUser": 0.53,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-01-31",
+      "userCount": 18,
+      "eventSum": 19,
+      "eventPerUser": 0.89,
+      "platform": "App"
+    },
+    {
+      "date": "2023-02-01",
+      "userCount": 15,
+      "eventSum": 18,
+      "eventPerUser": 0.66,
+      "platform": "App"
+    },
+    {
+      "date": "2023-02-02",
+      "userCount": 27,
+      "eventSum": 16,
+      "eventPerUser": 0.75,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-02-03",
+      "userCount": 11,
+      "eventSum": 11,
+      "eventPerUser": 0.84,
+      "platform": "App"
+    },
+    {
+      "date": "2023-02-04",
+      "userCount": 18,
+      "eventSum": 6,
+      "eventPerUser": 0.85,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-02-05",
+      "userCount": 22,
+      "eventSum": 10,
+      "eventPerUser": 0.86,
+      "platform": "App"
+    },
+    {
+      "date": "2023-02-06",
+      "userCount": 27,
+      "eventSum": 19,
+      "eventPerUser": 0.57,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-02-07",
+      "userCount": 12,
+      "eventSum": 18,
+      "eventPerUser": 0.66,
+      "platform": "App"
+    },
+    {
+      "date": "2023-02-08",
+      "userCount": 21,
+      "eventSum": 14,
+      "eventPerUser": 0.76,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-02-09",
+      "userCount": 30,
+      "eventSum": 17,
+      "eventPerUser": 0.6,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-02-10",
+      "userCount": 28,
+      "eventSum": 14,
+      "eventPerUser": 0.76,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-02-11",
+      "userCount": 25,
+      "eventSum": 16,
+      "eventPerUser": 0.71,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-02-12",
+      "userCount": 20,
+      "eventSum": 5,
+      "eventPerUser": 0.9,
+      "platform": "App"
+    },
+    {
+      "date": "2023-02-13",
+      "userCount": 29,
+      "eventSum": 13,
+      "eventPerUser": 0.78,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-02-14",
+      "userCount": 23,
+      "eventSum": 9,
+      "eventPerUser": 0.57,
+      "platform": "App"
+    },
+    {
+      "date": "2023-02-15",
+      "userCount": 14,
+      "eventSum": 5,
+      "eventPerUser": 0.91,
+      "platform": "App"
+    },
+    {
+      "date": "2023-02-16",
+      "userCount": 30,
+      "eventSum": 7,
+      "eventPerUser": 0.58,
+      "platform": "App"
+    },
+    {
+      "date": "2023-02-17",
+      "userCount": 10,
+      "eventSum": 18,
+      "eventPerUser": 0.99,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-02-18",
+      "userCount": 22,
+      "eventSum": 17,
+      "eventPerUser": 0.68,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-02-19",
+      "userCount": 14,
+      "eventSum": 18,
+      "eventPerUser": 0.56,
+      "platform": "App"
+    },
+    {
+      "date": "2023-02-20",
+      "userCount": 18,
+      "eventSum": 6,
+      "eventPerUser": 0.73,
+      "platform": "App"
+    },
+    {
+      "date": "2023-02-21",
+      "userCount": 10,
+      "eventSum": 14,
+      "eventPerUser": 0.56,
+      "platform": "App"
+    },
+    {
+      "date": "2023-02-22",
+      "userCount": 17,
+      "eventSum": 11,
+      "eventPerUser": 0.71,
+      "platform": "App"
+    },
+    {
+      "date": "2023-02-23",
+      "userCount": 17,
+      "eventSum": 10,
+      "eventPerUser": 0.51,
+      "platform": "App"
+    },
+    {
+      "date": "2023-02-24",
+      "userCount": 18,
+      "eventSum": 11,
+      "eventPerUser": 0.61,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-02-25",
+      "userCount": 19,
+      "eventSum": 12,
+      "eventPerUser": 0.63,
+      "platform": "App"
+    },
+    {
+      "date": "2023-02-26",
+      "userCount": 20,
+      "eventSum": 13,
+      "eventPerUser": 0.65,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-02-27",
+      "userCount": 21,
+      "eventSum": 14,
+      "eventPerUser": 0.67,
+      "platform": "App"
+    },
+    {
+      "date": "2023-02-28",
+      "userCount": 22,
+      "eventSum": 15,
+      "eventPerUser": 0.68,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-03-01",
+      "userCount": 18,
+      "eventSum": 15,
+      "eventPerUser": 0.82,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-03-02",
+      "userCount": 17,
+      "eventSum": 14,
+      "eventPerUser": 0.83,
+      "platform": "App"
+    },
+    {
+      "date": "2023-03-03",
+      "userCount": 16,
+      "eventSum": 13,
+      "eventPerUser": 0.81,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-03-04",
+      "userCount": 20,
+      "eventSum": 17,
+      "eventPerUser": 0.85,
+      "platform": "App"
+    },
+    {
+      "date": "2023-03-05",
+      "userCount": 21,
+      "eventSum": 18,
+      "eventPerUser": 0.86,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-03-06",
+      "userCount": 22,
+      "eventSum": 19,
+      "eventPerUser": 0.87,
+      "platform": "App"
+    },
+    {
+      "date": "2023-03-07",
+      "userCount": 23,
+      "eventSum": 20,
+      "eventPerUser": 0.87,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-03-08",
+      "userCount": 24,
+      "eventSum": 21,
+      "eventPerUser": 0.88,
+      "platform": "App"
+    },
+    {
+      "date": "2023-03-09",
+      "userCount": 19,
+      "eventSum": 16,
+      "eventPerUser": 0.84,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-03-10",
+      "userCount": 18,
+      "eventSum": 15,
+      "eventPerUser": 0.82,
+      "platform": "App"
+    },
+    {
+      "date": "2023-03-11",
+      "userCount": 21,
+      "eventSum": 18,
+      "eventPerUser": 0.86,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-03-12",
+      "userCount": 20,
+      "eventSum": 17,
+      "eventPerUser": 0.85,
+      "platform": "App"
+    },
+    {
+      "date": "2023-03-13",
+      "userCount": 19,
+      "eventSum": 16,
+      "eventPerUser": 0.84,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-03-14",
+      "userCount": 22,
+      "eventSum": 19,
+      "eventPerUser": 0.87,
+      "platform": "App"
+    },
+    {
+      "date": "2023-03-15",
+      "userCount": 23,
+      "eventSum": 20,
+      "eventPerUser": 0.87,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-03-16",
+      "userCount": 24,
+      "eventSum": 21,
+      "eventPerUser": 0.88,
+      "platform": "App"
+    },
+    {
+      "date": "2023-03-17",
+      "userCount": 25,
+      "eventSum": 22,
+      "eventPerUser": 0.88,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-03-18",
+      "userCount": 26,
+      "eventSum": 23,
+      "eventPerUser": 0.89,
+      "platform": "App"
+    },
+    {
+      "date": "2023-03-19",
+      "userCount": 21,
+      "eventSum": 18,
+      "eventPerUser": 0.86,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-03-20",
+      "userCount": 20,
+      "eventSum": 17,
+      "eventPerUser": 0.85,
+      "platform": "App"
+    },
+    {
+      "date": "2023-03-21",
+      "userCount": 22,
+      "eventSum": 19,
+      "eventPerUser": 0.87,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-03-22",
+      "userCount": 23,
+      "eventSum": 20,
+      "eventPerUser": 0.87,
+      "platform": "App"
+    },
+    {
+      "date": "2023-03-23",
+      "userCount": 24,
+      "eventSum": 21,
+      "eventPerUser": 0.88,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-03-24",
+      "userCount": 25,
+      "eventSum": 22,
+      "eventPerUser": 0.88,
+      "platform": "App"
+    },
+    {
+      "date": "2023-03-25",
+      "userCount": 26,
+      "eventSum": 23,
+      "eventPerUser": 0.89,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-03-26",
+      "userCount": 21,
+      "eventSum": 18,
+      "eventPerUser": 0.86,
+      "platform": "App"
+    },
+    {
+      "date": "2023-03-27",
+      "userCount": 20,
+      "eventSum": 17,
+      "eventPerUser": 0.85,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-03-28",
+      "userCount": 22,
+      "eventSum": 19,
+      "eventPerUser": 0.87,
+      "platform": "App"
+    },
+    {
+      "date": "2023-03-29",
+      "userCount": 23,
+      "eventSum": 20,
+      "eventPerUser": 0.87,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-03-30",
+      "userCount": 24,
+      "eventSum": 21,
+      "eventPerUser": 0.88,
+      "platform": "App"
+    },
+    {
+      "date": "2023-03-31",
+      "userCount": 25,
+      "eventSum": 22,
+      "eventPerUser": 0.88,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-04-01",
+      "userCount": 27,
+      "eventSum": 24,
+      "eventPerUser": 0.89,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-04-02",
+      "userCount": 28,
+      "eventSum": 25,
+      "eventPerUser": 0.9,
+      "platform": "App"
+    },
+    {
+      "date": "2023-04-03",
+      "userCount": 29,
+      "eventSum": 26,
+      "eventPerUser": 0.9,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-04-04",
+      "userCount": 30,
+      "eventSum": 27,
+      "eventPerUser": 0.91,
+      "platform": "App"
+    },
+    {
+      "date": "2023-04-05",
+      "userCount": 31,
+      "eventSum": 28,
+      "eventPerUser": 0.91,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-04-06",
+      "userCount": 32,
+      "eventSum": 29,
+      "eventPerUser": 0.91,
+      "platform": "App"
+    },
+    {
+      "date": "2023-04-07",
+      "userCount": 33,
+      "eventSum": 30,
+      "eventPerUser": 0.92,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-04-08",
+      "userCount": 34,
+      "eventSum": 31,
+      "eventPerUser": 0.92,
+      "platform": "App"
+    },
+    {
+      "date": "2023-04-09",
+      "userCount": 35,
+      "eventSum": 32,
+      "eventPerUser": 0.92,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-04-10",
+      "userCount": 36,
+      "eventSum": 33,
+      "eventPerUser": 0.92,
+      "platform": "App"
+    },
+    {
+      "date": "2023-04-11",
+      "userCount": 37,
+      "eventSum": 34,
+      "eventPerUser": 0.93,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-04-12",
+      "userCount": 38,
+      "eventSum": 35,
+      "eventPerUser": 0.93,
+      "platform": "App"
+    },
+    {
+      "date": "2023-04-13",
+      "userCount": 39,
+      "eventSum": 36,
+      "eventPerUser": 0.93,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-04-14",
+      "userCount": 40,
+      "eventSum": 37,
+      "eventPerUser": 0.93,
+      "platform": "App"
+    },
+    {
+      "date": "2023-04-15",
+      "userCount": 41,
+      "eventSum": 38,
+      "eventPerUser": 0.93,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-04-16",
+      "userCount": 42,
+      "eventSum": 39,
+      "eventPerUser": 0.93,
+      "platform": "App"
+    },
+    {
+      "date": "2023-04-17",
+      "userCount": 43,
+      "eventSum": 40,
+      "eventPerUser": 0.93,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-04-18",
+      "userCount": 44,
+      "eventSum": 41,
+      "eventPerUser": 0.93,
+      "platform": "App"
+    },
+    {
+      "date": "2023-04-19",
+      "userCount": 45,
+      "eventSum": 42,
+      "eventPerUser": 0.93,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-04-20",
+      "userCount": 46,
+      "eventSum": 43,
+      "eventPerUser": 0.93,
+      "platform": "App"
+    },
+    {
+      "date": "2023-04-21",
+      "userCount": 47,
+      "eventSum": 44,
+      "eventPerUser": 0.93,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-04-22",
+      "userCount": 48,
+      "eventSum": 45,
+      "eventPerUser": 0.93,
+      "platform": "App"
+    },
+    {
+      "date": "2023-04-23",
+      "userCount": 49,
+      "eventSum": 46,
+      "eventPerUser": 0.93,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-04-24",
+      "userCount": 50,
+      "eventSum": 47,
+      "eventPerUser": 0.93,
+      "platform": "App"
+    },
+    {
+      "date": "2023-04-25",
+      "userCount": 51,
+      "eventSum": 48,
+      "eventPerUser": 0.94,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-04-26",
+      "userCount": 52,
+      "eventSum": 49,
+      "eventPerUser": 0.94,
+      "platform": "App"
+    },
+    {
+      "date": "2023-04-27",
+      "userCount": 53,
+      "eventSum": 50,
+      "eventPerUser": 0.94,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-04-28",
+      "userCount": 54,
+      "eventSum": 51,
+      "eventPerUser": 0.94,
+      "platform": "App"
+    },
+    {
+      "date": "2023-04-29",
+      "userCount": 55,
+      "eventSum": 52,
+      "eventPerUser": 0.94,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-04-30",
+      "userCount": 55,
+      "eventSum": 52,
+      "eventPerUser": 0.93,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-05-01",
+      "userCount": 57,
+      "eventSum": 54,
+      "eventPerUser": 0.94,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-05-02",
+      "userCount": 58,
+      "eventSum": 55,
+      "eventPerUser": 0.94,
+      "platform": "App"
+    },
+    {
+      "date": "2023-05-03",
+      "userCount": 59,
+      "eventSum": 56,
+      "eventPerUser": 0.94,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-05-04",
+      "userCount": 60,
+      "eventSum": 57,
+      "eventPerUser": 0.94,
+      "platform": "App"
+    },
+    {
+      "date": "2023-05-05",
+      "userCount": 61,
+      "eventSum": 58,
+      "eventPerUser": 0.94,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-05-06",
+      "userCount": 62,
+      "eventSum": 59,
+      "eventPerUser": 0.94,
+      "platform": "App"
+    },
+    {
+      "date": "2023-05-07",
+      "userCount": 63,
+      "eventSum": 60,
+      "eventPerUser": 0.94,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-05-08",
+      "userCount": 64,
+      "eventSum": 61,
+      "eventPerUser": 0.94,
+      "platform": "App"
+    },
+    {
+      "date": "2023-05-09",
+      "userCount": 65,
+      "eventSum": 62,
+      "eventPerUser": 0.94,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-05-10",
+      "userCount": 66,
+      "eventSum": 63,
+      "eventPerUser": 0.94,
+      "platform": "App"
+    },
+    {
+      "date": "2023-05-11",
+      "userCount": 67,
+      "eventSum": 64,
+      "eventPerUser": 0.94,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-05-12",
+      "userCount": 68,
+      "eventSum": 65,
+      "eventPerUser": 0.94,
+      "platform": "App"
+    },
+    {
+      "date": "2023-05-13",
+      "userCount": 69,
+      "eventSum": 66,
+      "eventPerUser": 0.94,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-05-14",
+      "userCount": 70,
+      "eventSum": 67,
+      "eventPerUser": 0.94,
+      "platform": "App"
+    },
+    {
+      "date": "2023-05-15",
+      "userCount": 71,
+      "eventSum": 68,
+      "eventPerUser": 0.94,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-05-16",
+      "userCount": 72,
+      "eventSum": 69,
+      "eventPerUser": 0.94,
+      "platform": "App"
+    },
+    {
+      "date": "2023-05-17",
+      "userCount": 73,
+      "eventSum": 70,
+      "eventPerUser": 0.94,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-05-18",
+      "userCount": 74,
+      "eventSum": 71,
+      "eventPerUser": 0.94,
+      "platform": "App"
+    },
+    {
+      "date": "2023-05-19",
+      "userCount": 75,
+      "eventSum": 72,
+      "eventPerUser": 0.94,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-05-20",
+      "userCount": 76,
+      "eventSum": 73,
+      "eventPerUser": 0.96,
+      "platform": "App"
+    },
+    {
+      "date": "2023-05-21",
+      "userCount": 71,
+      "eventSum": 69,
+      "eventPerUser": 0.96,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-05-22",
+      "userCount": 72,
+      "eventSum": 70,
+      "eventPerUser": 0.96,
+      "platform": "App"
+    },
+    {
+      "date": "2023-05-23",
+      "userCount": 73,
+      "eventSum": 71,
+      "eventPerUser": 0.96,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-05-24",
+      "userCount": 74,
+      "eventSum": 72,
+      "eventPerUser": 0.96,
+      "platform": "App"
+    },
+    {
+      "date": "2023-05-25",
+      "userCount": 75,
+      "eventSum": 73,
+      "eventPerUser": 0.96,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-05-26",
+      "userCount": 76,
+      "eventSum": 74,
+      "eventPerUser": 0.96,
+      "platform": "App"
+    },
+    {
+      "date": "2023-05-27",
+      "userCount": 77,
+      "eventSum": 75,
+      "eventPerUser": 0.96,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-05-28",
+      "userCount": 78,
+      "eventSum": 76,
+      "eventPerUser": 0.96,
+      "platform": "App"
+    },
+    {
+      "date": "2023-05-29",
+      "userCount": 79,
+      "eventSum": 77,
+      "eventPerUser": 0.96,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-05-30",
+      "userCount": 80,
+      "eventSum": 78,
+      "eventPerUser": 0.96,
+      "platform": "App"
+    },
+    {
+      "date": "2023-06-01",
+      "userCount": 81,
+      "eventSum": 79,
+      "eventPerUser": 0.96,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-06-02",
+      "userCount": 82,
+      "eventSum": 80,
+      "eventPerUser": 0.96,
+      "platform": "App"
+    },
+    {
+      "date": "2023-06-03",
+      "userCount": 83,
+      "eventSum": 81,
+      "eventPerUser": 0.96,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-06-04",
+      "userCount": 84,
+      "eventSum": 82,
+      "eventPerUser": 0.96,
+      "platform": "App"
+    },
+    {
+      "date": "2023-06-05",
+      "userCount": 85,
+      "eventSum": 83,
+      "eventPerUser": 0.96,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-06-06",
+      "userCount": 86,
+      "eventSum": 84,
+      "eventPerUser": 0.96,
+      "platform": "App"
+    },
+    {
+      "date": "2023-06-07",
+      "userCount": 87,
+      "eventSum": 85,
+      "eventPerUser": 0.96,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-06-08",
+      "userCount": 88,
+      "eventSum": 86,
+      "eventPerUser": 0.96,
+      "platform": "App"
+    },
+    {
+      "date": "2023-06-09",
+      "userCount": 89,
+      "eventSum": 87,
+      "eventPerUser": 0.96,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-06-10",
+      "userCount": 90,
+      "eventSum": 88,
+      "eventPerUser": 0.96,
+      "platform": "App"
+    },
+    {
+      "date": "2023-06-11",
+      "userCount": 91,
+      "eventSum": 89,
+      "eventPerUser": 0.96,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-06-12",
+      "userCount": 92,
+      "eventSum": 90,
+      "eventPerUser": 0.96,
+      "platform": "App"
+    },
+    {
+      "date": "2023-06-13",
+      "userCount": 93,
+      "eventSum": 91,
+      "eventPerUser": 0.96,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-06-14",
+      "userCount": 94,
+      "eventSum": 92,
+      "eventPerUser": 0.96,
+      "platform": "App"
+    },
+    {
+      "date": "2023-06-15",
+      "userCount": 95,
+      "eventSum": 93,
+      "eventPerUser": 0.96,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-06-16",
+      "userCount": 96,
+      "eventSum": 94,
+      "eventPerUser": 0.96,
+      "platform": "App"
+    },
+    {
+      "date": "2023-06-17",
+      "userCount": 97,
+      "eventSum": 95,
+      "eventPerUser": 0.96,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-06-18",
+      "userCount": 98,
+      "eventSum": 96,
+      "eventPerUser": 0.96,
+      "platform": "App"
+    },
+    {
+      "date": "2023-06-19",
+      "userCount": 99,
+      "eventSum": 97,
+      "eventPerUser": 0.96,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-06-20",
+      "userCount": 100,
+      "eventSum": 98,
+      "eventPerUser": 0.96,
+      "platform": "App"
+    },
+    {
+      "date": "2023-06-21",
+      "userCount": 101,
+      "eventSum": 99,
+      "eventPerUser": 0.96,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-06-22",
+      "userCount": 102,
+      "eventSum": 100,
+      "eventPerUser": 0.96,
+      "platform": "App"
+    },
+    {
+      "date": "2023-06-23",
+      "userCount": 103,
+      "eventSum": 101,
+      "eventPerUser": 0.96,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-06-24",
+      "userCount": 104,
+      "eventSum": 102,
+      "eventPerUser": 0.96,
+      "platform": "App"
+    },
+    {
+      "date": "2023-06-25",
+      "userCount": 105,
+      "eventSum": 103,
+      "eventPerUser": 0.96,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-06-26",
+      "userCount": 106,
+      "eventSum": 104,
+      "eventPerUser": 0.96,
+      "platform": "App"
+    },
+    {
+      "date": "2023-06-27",
+      "userCount": 107,
+      "eventSum": 105,
+      "eventPerUser": 0.96,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-06-28",
+      "userCount": 108,
+      "eventSum": 106,
+      "eventPerUser": 0.96,
+      "platform": "App"
+    },
+    {
+      "date": "2023-06-29",
+      "userCount": 109,
+      "eventSum": 107,
+      "eventPerUser": 0.96,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-06-30",
+      "userCount": 110,
+      "eventSum": 108,
+      "eventPerUser": 0.96,
+      "platform": "App"
+    },
+    {
+      "date": "2023-07-01",
+      "userCount": 107,
+      "eventSum": 128,
+      "eventPerUser": 1.02,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-07-02",
+      "userCount": 95,
+      "eventSum": 89,
+      "eventPerUser": 0.9,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-07-03",
+      "userCount": 111,
+      "eventSum": 71,
+      "eventPerUser": 0.97,
+      "platform": "App"
+    },
+    {
+      "date": "2023-07-04",
+      "userCount": 103,
+      "eventSum": 91,
+      "eventPerUser": 0.81,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-07-05",
+      "userCount": 80,
+      "eventSum": 121,
+      "eventPerUser": 0.95,
+      "platform": "App"
+    },
+    {
+      "date": "2023-07-06",
+      "userCount": 119,
+      "eventSum": 99,
+      "eventPerUser": 0.71,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-07-07",
+      "userCount": 114,
+      "eventSum": 78,
+      "eventPerUser": 1.1,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-07-08",
+      "userCount": 107,
+      "eventSum": 87,
+      "eventPerUser": 0.84,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-07-09",
+      "userCount": 96,
+      "eventSum": 104,
+      "eventPerUser": 0.92,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-07-10",
+      "userCount": 101,
+      "eventSum": 127,
+      "eventPerUser": 1.18,
+      "platform": "App"
+    },
+    {
+      "date": "2023-07-11",
+      "userCount": 88,
+      "eventSum": 71,
+      "eventPerUser": 0.99,
+      "platform": "App"
+    },
+    {
+      "date": "2023-07-12",
+      "userCount": 88,
+      "eventSum": 116,
+      "eventPerUser": 0.93,
+      "platform": "App"
+    },
+    {
+      "date": "2023-07-13",
+      "userCount": 90,
+      "eventSum": 109,
+      "eventPerUser": 0.87,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-07-14",
+      "userCount": 119,
+      "eventSum": 80,
+      "eventPerUser": 0.96,
+      "platform": "App"
+    },
+    {
+      "date": "2023-07-15",
+      "userCount": 96,
+      "eventSum": 84,
+      "eventPerUser": 1.18,
+      "platform": "App"
+    },
+    {
+      "date": "2023-07-16",
+      "userCount": 81,
+      "eventSum": 82,
+      "eventPerUser": 1.01,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-07-17",
+      "userCount": 95,
+      "eventSum": 89,
+      "eventPerUser": 0.99,
+      "platform": "App"
+    },
+    {
+      "date": "2023-07-18",
+      "userCount": 110,
+      "eventSum": 111,
+      "eventPerUser": 0.97,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-07-19",
+      "userCount": 97,
+      "eventSum": 105,
+      "eventPerUser": 0.81,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-07-20",
+      "userCount": 91,
+      "eventSum": 107,
+      "eventPerUser": 1.01,
+      "platform": "App"
+    },
+    {
+      "date": "2023-07-21",
+      "userCount": 105,
+      "eventSum": 98,
+      "eventPerUser": 0.93,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-07-22",
+      "userCount": 102,
+      "eventSum": 101,
+      "eventPerUser": 0.99,
+      "platform": "App"
+    },
+    {
+      "date": "2023-07-23",
+      "userCount": 97,
+      "eventSum": 92,
+      "eventPerUser": 0.95,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-07-24",
+      "userCount": 100,
+      "eventSum": 105,
+      "eventPerUser": 1.05,
+      "platform": "App"
+    },
+    {
+      "date": "2023-07-25",
+      "userCount": 98,
+      "eventSum": 99,
+      "eventPerUser": 1.01,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-07-26",
+      "userCount": 103,
+      "eventSum": 97,
+      "eventPerUser": 0.94,
+      "platform": "App"
+    },
+    {
+      "date": "2023-07-27",
+      "userCount": 101,
+      "eventSum": 100,
+      "eventPerUser": 0.99,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-07-28",
+      "userCount": 99,
+      "eventSum": 102,
+      "eventPerUser": 1.03,
+      "platform": "App"
+    },
+    {
+      "date": "2023-07-29",
+      "userCount": 104,
+      "eventSum": 96,
+      "eventPerUser": 0.92,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-07-30",
+      "userCount": 100,
+      "eventSum": 101,
+      "eventPerUser": 1.01,
+      "platform": "App"
+    },
+    {
+      "date": "2023-08-01",
+      "userCount": 95,
+      "eventSum": 88,
+      "eventPerUser": 0.92,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-08-02",
+      "userCount": 102,
+      "eventSum": 99,
+      "eventPerUser": 0.97,
+      "platform": "App"
+    },
+    {
+      "date": "2023-08-03",
+      "userCount": 98,
+      "eventSum": 101,
+      "eventPerUser": 1.03,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-08-04",
+      "userCount": 105,
+      "eventSum": 96,
+      "eventPerUser": 0.91,
+      "platform": "App"
+    },
+    {
+      "date": "2023-08-05",
+      "userCount": 100,
+      "eventSum": 105,
+      "eventPerUser": 1.05,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-08-06",
+      "userCount": 99,
+      "eventSum": 98,
+      "eventPerUser": 0.99,
+      "platform": "App"
+    },
+    {
+      "date": "2023-08-07",
+      "userCount": 104,
+      "eventSum": 92,
+      "eventPerUser": 0.88,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-08-08",
+      "userCount": 101,
+      "eventSum": 100,
+      "eventPerUser": 0.99,
+      "platform": "App"
+    },
+    {
+      "date": "2023-08-09",
+      "userCount": 97,
+      "eventSum": 96,
+      "eventPerUser": 0.99,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-08-10",
+      "userCount": 103,
+      "eventSum": 101,
+      "eventPerUser": 0.98,
+      "platform": "App"
+    },
+    {
+      "date": "2023-08-11",
+      "userCount": 98,
+      "eventSum": 95,
+      "eventPerUser": 0.97,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-08-12",
+      "userCount": 105,
+      "eventSum": 102,
+      "eventPerUser": 0.97,
+      "platform": "App"
+    },
+    {
+      "date": "2023-08-13",
+      "userCount": 100,
+      "eventSum": 98,
+      "eventPerUser": 0.98,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-08-14",
+      "userCount": 99,
+      "eventSum": 101,
+      "eventPerUser": 1.02,
+      "platform": "App"
+    },
+    {
+      "date": "2023-08-15",
+      "userCount": 104,
+      "eventSum": 97,
+      "eventPerUser": 0.93,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-08-16",
+      "userCount": 101,
+      "eventSum": 99,
+      "eventPerUser": 0.98,
+      "platform": "App"
+    },
+    {
+      "date": "2023-08-17",
+      "userCount": 97,
+      "eventSum": 96,
+      "eventPerUser": 0.99,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-08-18",
+      "userCount": 103,
+      "eventSum": 101,
+      "eventPerUser": 0.98,
+      "platform": "App"
+    },
+    {
+      "date": "2023-08-19",
+      "userCount": 98,
+      "eventSum": 95,
+      "eventPerUser": 0.97,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-08-20",
+      "userCount": 105,
+      "eventSum": 102,
+      "eventPerUser": 0.97,
+      "platform": "App"
+    },
+    {
+      "date": "2023-08-21",
+      "userCount": 100,
+      "eventSum": 98,
+      "eventPerUser": 0.98,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-08-22",
+      "userCount": 99,
+      "eventSum": 101,
+      "eventPerUser": 1.02,
+      "platform": "App"
+    },
+    {
+      "date": "2023-08-23",
+      "userCount": 104,
+      "eventSum": 97,
+      "eventPerUser": 0.93,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-08-24",
+      "userCount": 101,
+      "eventSum": 99,
+      "eventPerUser": 0.98,
+      "platform": "App"
+    },
+    {
+      "date": "2023-08-25",
+      "userCount": 97,
+      "eventSum": 96,
+      "eventPerUser": 0.99,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-08-26",
+      "userCount": 103,
+      "eventSum": 101,
+      "eventPerUser": 0.98,
+      "platform": "App"
+    },
+    {
+      "date": "2023-08-27",
+      "userCount": 98,
+      "eventSum": 95,
+      "eventPerUser": 0.97,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-08-28",
+      "userCount": 105,
+      "eventSum": 102,
+      "eventPerUser": 0.97,
+      "platform": "App"
+    },
+    {
+      "date": "2023-08-29",
+      "userCount": 100,
+      "eventSum": 98,
+      "eventPerUser": 0.98,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-08-30",
+      "userCount": 99,
+      "eventSum": 101,
+      "eventPerUser": 1.02,
+      "platform": "App"
+    },
+    {
+      "date": "2023-08-31",
+      "userCount": 104,
+      "eventSum": 97,
+      "eventPerUser": 0.93,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-09-01",
+      "userCount": 102,
+      "eventSum": 100,
+      "eventPerUser": 0.98,
+      "platform": "App"
+    },
+    {
+      "date": "2023-09-02",
+      "userCount": 97,
+      "eventSum": 94,
+      "eventPerUser": 0.97,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-09-03",
+      "userCount": 104,
+      "eventSum": 101,
+      "eventPerUser": 0.97,
+      "platform": "App"
+    },
+    {
+      "date": "2023-09-04",
+      "userCount": 99,
+      "eventSum": 97,
+      "eventPerUser": 0.98,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-09-05",
+      "userCount": 98,
+      "eventSum": 100,
+      "eventPerUser": 1.02,
+      "platform": "App"
+    },
+    {
+      "date": "2023-09-06",
+      "userCount": 103,
+      "eventSum": 96,
+      "eventPerUser": 0.93,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-09-07",
+      "userCount": 100,
+      "eventSum": 98,
+      "eventPerUser": 0.98,
+      "platform": "App"
+    },
+    {
+      "date": "2023-09-08",
+      "userCount": 101,
+      "eventSum": 99,
+      "eventPerUser": 0.98,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-09-09",
+      "userCount": 97,
+      "eventSum": 96,
+      "eventPerUser": 0.99,
+      "platform": "App"
+    },
+    {
+      "date": "2023-09-10",
+      "userCount": 105,
+      "eventSum": 102,
+      "eventPerUser": 0.97,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-09-11",
+      "userCount": 100,
+      "eventSum": 98,
+      "eventPerUser": 0.98,
+      "platform": "App"
+    },
+    {
+      "date": "2023-09-12",
+      "userCount": 99,
+      "eventSum": 101,
+      "eventPerUser": 1.02,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-09-13",
+      "userCount": 104,
+      "eventSum": 97,
+      "eventPerUser": 0.93,
+      "platform": "App"
+    },
+    {
+      "date": "2023-09-14",
+      "userCount": 101,
+      "eventSum": 99,
+      "eventPerUser": 0.98,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-09-15",
+      "userCount": 97,
+      "eventSum": 96,
+      "eventPerUser": 0.99,
+      "platform": "App"
+    },
+    {
+      "date": "2023-09-16",
+      "userCount": 103,
+      "eventSum": 101,
+      "eventPerUser": 0.98,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-09-17",
+      "userCount": 98,
+      "eventSum": 95,
+      "eventPerUser": 0.97,
+      "platform": "App"
+    },
+    {
+      "date": "2023-09-18",
+      "userCount": 105,
+      "eventSum": 102,
+      "eventPerUser": 0.97,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-09-19",
+      "userCount": 100,
+      "eventSum": 98,
+      "eventPerUser": 0.98,
+      "platform": "App"
+    },
+    {
+      "date": "2023-09-20",
+      "userCount": 99,
+      "eventSum": 101,
+      "eventPerUser": 1.02,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-09-21",
+      "userCount": 104,
+      "eventSum": 97,
+      "eventPerUser": 0.93,
+      "platform": "App"
+    },
+    {
+      "date": "2023-09-22",
+      "userCount": 101,
+      "eventSum": 99,
+      "eventPerUser": 0.98,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-09-23",
+      "userCount": 97,
+      "eventSum": 96,
+      "eventPerUser": 0.99,
+      "platform": "App"
+    },
+    {
+      "date": "2023-09-24",
+      "userCount": 103,
+      "eventSum": 101,
+      "eventPerUser": 0.98,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-09-25",
+      "userCount": 98,
+      "eventSum": 95,
+      "eventPerUser": 0.97,
+      "platform": "App"
+    },
+    {
+      "date": "2023-09-26",
+      "userCount": 105,
+      "eventSum": 102,
+      "eventPerUser": 0.97,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-09-27",
+      "userCount": 100,
+      "eventSum": 98,
+      "eventPerUser": 0.98,
+      "platform": "App"
+    },
+    {
+      "date": "2023-09-28",
+      "userCount": 99,
+      "eventSum": 101,
+      "eventPerUser": 1.02,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-09-29",
+      "userCount": 104,
+      "eventSum": 97,
+      "eventPerUser": 0.93,
+      "platform": "App"
+    },
+    {
+      "date": "2023-09-30",
+      "userCount": 101,
+      "eventSum": 99,
+      "eventPerUser": 0.98,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-10-01",
+      "userCount": 102,
+      "eventSum": 100,
+      "eventPerUser": 0.98,
+      "platform": "App"
+    },
+    {
+      "date": "2023-10-02",
+      "userCount": 97,
+      "eventSum": 96,
+      "eventPerUser": 0.99,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-10-03",
+      "userCount": 103,
+      "eventSum": 101,
+      "eventPerUser": 0.98,
+      "platform": "App"
+    },
+    {
+      "date": "2023-10-04",
+      "userCount": 98,
+      "eventSum": 95,
+      "eventPerUser": 0.97,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-10-05",
+      "userCount": 105,
+      "eventSum": 102,
+      "eventPerUser": 0.97,
+      "platform": "App"
+    },
+    {
+      "date": "2023-10-06",
+      "userCount": 100,
+      "eventSum": 98,
+      "eventPerUser": 0.98,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-10-07",
+      "userCount": 99,
+      "eventSum": 101,
+      "eventPerUser": 1.02,
+      "platform": "App"
+    },
+    {
+      "date": "2023-10-08",
+      "userCount": 104,
+      "eventSum": 97,
+      "eventPerUser": 0.93,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-10-09",
+      "userCount": 101,
+      "eventSum": 99,
+      "eventPerUser": 0.98,
+      "platform": "App"
+    },
+    {
+      "date": "2023-10-10",
+      "userCount": 99,
+      "eventSum": 95,
+      "eventPerUser": 0.96,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-10-11",
+      "userCount": 102,
+      "eventSum": 100,
+      "eventPerUser": 0.98,
+      "platform": "App"
+    },
+    {
+      "date": "2023-10-12",
+      "userCount": 97,
+      "eventSum": 96,
+      "eventPerUser": 0.99,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-10-13",
+      "userCount": 103,
+      "eventSum": 101,
+      "eventPerUser": 0.98,
+      "platform": "App"
+    },
+    {
+      "date": "2023-10-14",
+      "userCount": 98,
+      "eventSum": 95,
+      "eventPerUser": 0.97,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-10-15",
+      "userCount": 105,
+      "eventSum": 102,
+      "eventPerUser": 0.97,
+      "platform": "App"
+    },
+    {
+      "date": "2023-10-16",
+      "userCount": 100,
+      "eventSum": 98,
+      "eventPerUser": 0.98,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-10-17",
+      "userCount": 99,
+      "eventSum": 101,
+      "eventPerUser": 1.02,
+      "platform": "App"
+    },
+    {
+      "date": "2023-10-18",
+      "userCount": 104,
+      "eventSum": 97,
+      "eventPerUser": 0.93,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-10-19",
+      "userCount": 101,
+      "eventSum": 99,
+      "eventPerUser": 0.98,
+      "platform": "App"
+    },
+    {
+      "date": "2023-10-20",
+      "userCount": 99,
+      "eventSum": 95,
+      "eventPerUser": 0.96,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-10-21",
+      "userCount": 102,
+      "eventSum": 100,
+      "eventPerUser": 0.98,
+      "platform": "App"
+    },
+    {
+      "date": "2023-10-22",
+      "userCount": 97,
+      "eventSum": 96,
+      "eventPerUser": 0.99,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-10-23",
+      "userCount": 103,
+      "eventSum": 101,
+      "eventPerUser": 0.98,
+      "platform": "App"
+    },
+    {
+      "date": "2023-10-24",
+      "userCount": 98,
+      "eventSum": 95,
+      "eventPerUser": 0.97,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-10-25",
+      "userCount": 105,
+      "eventSum": 102,
+      "eventPerUser": 0.97,
+      "platform": "App"
+    },
+    {
+      "date": "2023-10-26",
+      "userCount": 100,
+      "eventSum": 98,
+      "eventPerUser": 0.98,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-10-27",
+      "userCount": 99,
+      "eventSum": 101,
+      "eventPerUser": 1.02,
+      "platform": "App"
+    },
+    {
+      "date": "2023-10-28",
+      "userCount": 104,
+      "eventSum": 97,
+      "eventPerUser": 0.93,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-10-29",
+      "userCount": 101,
+      "eventSum": 99,
+      "eventPerUser": 0.98,
+      "platform": "App"
+    },
+    {
+      "date": "2023-10-30",
+      "userCount": 99,
+      "eventSum": 95,
+      "eventPerUser": 0.96,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-11-01",
+      "userCount": 120,
+      "eventSum": 150,
+      "eventPerUser": 1.25,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-11-02",
+      "userCount": 110,
+      "eventSum": 140,
+      "eventPerUser": 1.27,
+      "platform": "App"
+    },
+    {
+      "date": "2023-11-03",
+      "userCount": 115,
+      "eventSum": 160,
+      "eventPerUser": 1.39,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-11-04",
+      "userCount": 105,
+      "eventSum": 130,
+      "eventPerUser": 1.24,
+      "platform": "App"
+    },
+    {
+      "date": "2023-11-05",
+      "userCount": 100,
+      "eventSum": 120,
+      "eventPerUser": 1.2,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-11-06",
+      "userCount": 95,
+      "eventSum": 110,
+      "eventPerUser": 1.16,
+      "platform": "App"
+    },
+    {
+      "date": "2023-11-07",
+      "userCount": 105,
+      "eventSum": 130,
+      "eventPerUser": 1.24,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-11-08",
+      "userCount": 100,
+      "eventSum": 120,
+      "eventPerUser": 1.2,
+      "platform": "App"
+    },
+    {
+      "date": "2023-11-09",
+      "userCount": 110,
+      "eventSum": 140,
+      "eventPerUser": 1.27,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-11-10",
+      "userCount": 120,
+      "eventSum": 150,
+      "eventPerUser": 1.25,
+      "platform": "App"
+    },
+    {
+      "date": "2023-11-10",
+      "userCount": 88,
+      "eventSum": 75,
+      "eventPerUser": 1.06,
+      "platform": "App"
+    },
+    {
+      "date": "2023-11-11",
+      "userCount": 99,
+      "eventSum": 136,
+      "eventPerUser": 0.86,
+      "platform": "App"
+    },
+    {
+      "date": "2023-11-12",
+      "userCount": 102,
+      "eventSum": 73,
+      "eventPerUser": 0.94,
+      "platform": "App"
+    },
+    {
+      "date": "2023-11-13",
+      "userCount": 131,
+      "eventSum": 147,
+      "eventPerUser": 1.01,
+      "platform": "App"
+    },
+    {
+      "date": "2023-11-14",
+      "userCount": 114,
+      "eventSum": 84,
+      "eventPerUser": 0.97,
+      "platform": "App"
+    },
+    {
+      "date": "2023-11-15",
+      "userCount": 83,
+      "eventSum": 104,
+      "eventPerUser": 1.28,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-11-16",
+      "userCount": 85,
+      "eventSum": 92,
+      "eventPerUser": 0.81,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-11-17",
+      "userCount": 101,
+      "eventSum": 179,
+      "eventPerUser": 0.74,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-11-18",
+      "userCount": 84,
+      "eventSum": 150,
+      "eventPerUser": 0.92,
+      "platform": "App"
+    },
+    {
+      "date": "2023-11-19",
+      "userCount": 111,
+      "eventSum": 169,
+      "eventPerUser": 0.77,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-11-20",
+      "userCount": 89,
+      "eventSum": 164,
+      "eventPerUser": 1.12,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-11-21",
+      "userCount": 116,
+      "eventSum": 106,
+      "eventPerUser": 0.94,
+      "platform": "App"
+    },
+    {
+      "date": "2023-11-22",
+      "userCount": 138,
+      "eventSum": 151,
+      "eventPerUser": 1.13,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-11-23",
+      "userCount": 131,
+      "eventSum": 169,
+      "eventPerUser": 0.73,
+      "platform": "App"
+    },
+    {
+      "date": "2023-11-24",
+      "userCount": 119,
+      "eventSum": 94,
+      "eventPerUser": 1.28,
+      "platform": "App"
+    },
+    {
+      "date": "2023-11-25",
+      "userCount": 124,
+      "eventSum": 104,
+      "eventPerUser": 0.96,
+      "platform": "App"
+    },
+    {
+      "date": "2023-11-26",
+      "userCount": 125,
+      "eventSum": 176,
+      "eventPerUser": 1.13,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-11-27",
+      "userCount": 103,
+      "eventSum": 92,
+      "eventPerUser": 1.08,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-11-28",
+      "userCount": 92,
+      "eventSum": 180,
+      "eventPerUser": 0.74,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-11-29",
+      "userCount": 90,
+      "eventSum": 135,
+      "eventPerUser": 0.87,
+      "platform": "App"
+    },
+    {
+      "date": "2023-12-01",
+      "userCount": 95,
+      "eventSum": 120,
+      "eventPerUser": 1.26,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-12-02",
+      "userCount": 102,
+      "eventSum": 145,
+      "eventPerUser": 1.42,
+      "platform": "App"
+    },
+    {
+      "date": "2023-12-03",
+      "userCount": 110,
+      "eventSum": 160,
+      "eventPerUser": 1.45,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-12-04",
+      "userCount": 93,
+      "eventSum": 130,
+      "eventPerUser": 1.4,
+      "platform": "App"
+    },
+    {
+      "date": "2023-12-05",
+      "userCount": 105,
+      "eventSum": 150,
+      "eventPerUser": 1.43,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-12-06",
+      "userCount": 98,
+      "eventSum": 135,
+      "eventPerUser": 1.38,
+      "platform": "App"
+    },
+    {
+      "date": "2023-12-07",
+      "userCount": 100,
+      "eventSum": 140,
+      "eventPerUser": 1.4,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-12-08",
+      "userCount": 105,
+      "eventSum": 155,
+      "eventPerUser": 1.48,
+      "platform": "App"
+    },
+    {
+      "date": "2023-12-09",
+      "userCount": 95,
+      "eventSum": 125,
+      "eventPerUser": 1.32,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-12-10",
+      "userCount": 108,
+      "eventSum": 160,
+      "eventPerUser": 1.48,
+      "platform": "App"
+    },
+    {
+      "date": "2023-12-11",
+      "userCount": 100,
+      "eventSum": 145,
+      "eventPerUser": 1.45,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-12-12",
+      "userCount": 95,
+      "eventSum": 130,
+      "eventPerUser": 1.37,
+      "platform": "App"
+    },
+    {
+      "date": "2023-12-13",
+      "userCount": 105,
+      "eventSum": 150,
+      "eventPerUser": 1.43,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-12-14",
+      "userCount": 98,
+      "eventSum": 135,
+      "eventPerUser": 1.38,
+      "platform": "App"
+    },
+    {
+      "date": "2023-12-15",
+      "userCount": 100,
+      "eventSum": 140,
+      "eventPerUser": 1.4,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-12-16",
+      "userCount": 105,
+      "eventSum": 155,
+      "eventPerUser": 1.48,
+      "platform": "App"
+    },
+    {
+      "date": "2023-12-17",
+      "userCount": 95,
+      "eventSum": 125,
+      "eventPerUser": 1.32,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-12-18",
+      "userCount": 108,
+      "eventSum": 160,
+      "eventPerUser": 1.48,
+      "platform": "App"
+    },
+    {
+      "date": "2023-12-19",
+      "userCount": 100,
+      "eventSum": 145,
+      "eventPerUser": 1.45,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-12-20",
+      "userCount": 95,
+      "eventSum": 130,
+      "eventPerUser": 1.37,
+      "platform": "App"
+    },
+    {
+      "date": "2023-12-21",
+      "userCount": 105,
+      "eventSum": 150,
+      "eventPerUser": 1.43,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-12-22",
+      "userCount": 98,
+      "eventSum": 135,
+      "eventPerUser": 1.38,
+      "platform": "App"
+    },
+    {
+      "date": "2023-12-23",
+      "userCount": 100,
+      "eventSum": 140,
+      "eventPerUser": 1.4,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-12-24",
+      "userCount": 105,
+      "eventSum": 155,
+      "eventPerUser": 1.48,
+      "platform": "App"
+    },
+    {
+      "date": "2023-12-25",
+      "userCount": 95,
+      "eventSum": 125,
+      "eventPerUser": 1.32,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-12-26",
+      "userCount": 108,
+      "eventSum": 160,
+      "eventPerUser": 1.48,
+      "platform": "App"
+    },
+    {
+      "date": "2023-12-27",
+      "userCount": 100,
+      "eventSum": 145,
+      "eventPerUser": 1.45,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-12-28",
+      "userCount": 95,
+      "eventSum": 130,
+      "eventPerUser": 1.37,
+      "platform": "App"
+    },
+    {
+      "date": "2023-12-29",
+      "userCount": 105,
+      "eventSum": 150,
+      "eventPerUser": 1.43,
+      "platform": "Web"
+    },
+    {
+      "date": "2023-12-30",
+      "userCount": 98,
+      "eventSum": 135,
+      "eventPerUser": 1.38,
+      "platform": "App"
+    },
+    {
+      "date": "2023-12-31",
+      "userCount": 100,
+      "eventSum": 140,
+      "eventPerUser": 1.4,
+      "platform": "Web"
+    }
+  ]
+}

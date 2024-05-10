@@ -1,0 +1,489 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "userDetails": "Liam Smith",
+      "customerName": "Liam Smith",
+      "registerDate": "2023-01-17"
+    },
+    {
+      "id": 2,
+      "userDetails": "Sophia Garcia",
+      "customerName": "Sophia Garcia",
+      "registerDate": "2023-05-08"
+    },
+    {
+      "id": 3,
+      "userDetails": "Emma Brown",
+      "customerName": "Emma Brown",
+      "registerDate": "2023-01-12"
+    },
+    {
+      "id": 4,
+      "userDetails": "Jane Brown",
+      "customerName": "Jane Brown",
+      "registerDate": "2023-08-07",
+      "segment": "NEW"
+    },
+    {
+      "id": 5,
+      "userDetails": "Emma Smith",
+      "customerName": "Emma Smith",
+      "registerDate": "2023-06-19",
+      "segment": "NEW"
+    },
+    {
+      "id": 6,
+      "userDetails": "Jane Rodriguez",
+      "customerName": "Jane Rodriguez",
+      "registerDate": "2023-10-19",
+      "segment": "NEW"
+    },
+    {
+      "id": 7,
+      "userDetails": "Sophia Miller",
+      "customerName": "Sophia Miller",
+      "registerDate": "2023-02-17",
+      "segment": "NEW"
+    },
+    {
+      "id": 8,
+      "userDetails": "Sam Garcia",
+      "customerName": "Sam Garcia",
+      "registerDate": "2023-04-03",
+      "segment": "NEW"
+    },
+    {
+      "id": 9,
+      "userDetails": "Noah Miller",
+      "customerName": "Noah Miller",
+      "registerDate": "2023-03-31"
+    },
+    {
+      "id": 10,
+      "userDetails": "Sophia Jones",
+      "customerName": "Sophia Jones",
+      "registerDate": "2023-03-20"
+    },
+    {
+      "id": 11,
+      "userDetails": "Jane Brown",
+      "customerName": "Jane Brown",
+      "registerDate": "2023-11-03",
+      "segment": "NEW"
+    },
+    {
+      "id": 12,
+      "userDetails": "Liam Martinez",
+      "customerName": "Liam Martinez",
+      "registerDate": "2023-08-17",
+      "segment": "NEW"
+    },
+    {
+      "id": 13,
+      "userDetails": "Sophia Rodriguez",
+      "customerName": "Sophia Rodriguez",
+      "registerDate": "2023-10-30",
+      "segment": "NEW"
+    },
+    {
+      "id": 14,
+      "userDetails": "Sam Miller",
+      "customerName": "Sam Miller",
+      "registerDate": "2023-02-23"
+    },
+    {
+      "id": 15,
+      "userDetails": "Sam Brown",
+      "customerName": "Sam Brown",
+      "registerDate": "2023-10-11",
+      "segment": "NEW"
+    },
+    {
+      "id": 16,
+      "userDetails": "Liam Miller",
+      "customerName": "Liam Miller",
+      "registerDate": "2023-11-24"
+    },
+    {
+      "id": 17,
+      "userDetails": "Jane Garcia",
+      "customerName": "Jane Garcia",
+      "registerDate": "2023-12-03"
+    },
+    {
+      "id": 18,
+      "userDetails": "Noah Smith",
+      "customerName": "Noah Smith",
+      "registerDate": "2023-03-11"
+    },
+    {
+      "id": 19,
+      "userDetails": "James Williams",
+      "customerName": "James Williams",
+      "registerDate": "2023-02-20",
+      "segment": "NEW"
+    },
+    {
+      "id": 20,
+      "userDetails": "Sam Miller",
+      "customerName": "Sam Miller",
+      "registerDate": "2023-01-05"
+    },
+    {
+      "id": 21,
+      "userDetails": "Olivia Johnson",
+      "customerName": "Olivia Johnson",
+      "registerDate": "2023-05-21"
+    },
+    {
+      "id": 22,
+      "userDetails": "Sophia Smith",
+      "customerName": "Sophia Smith",
+      "registerDate": "2023-11-11"
+    },
+    {
+      "id": 23,
+      "userDetails": "Ava Garcia",
+      "customerName": "Ava Garcia",
+      "registerDate": "2023-11-24"
+    },
+    {
+      "id": 24,
+      "userDetails": "Ava Garcia",
+      "customerName": "Ava Garcia",
+      "registerDate": "2023-10-03",
+      "segment": "NEW"
+    },
+    {
+      "id": 25,
+      "userDetails": "Isabella Johnson",
+      "customerName": "Isabella Johnson",
+      "registerDate": "2023-03-18"
+    },
+    {
+      "id": 26,
+      "userDetails": "Ethan Jones",
+      "customerName": "Ethan Jones",
+      "registerDate": "2023-11-02",
+      "segment": "NEW"
+    },
+    {
+      "id": 27,
+      "userDetails": "Noah Rodriguez",
+      "customerName": "Noah Rodriguez",
+      "registerDate": "2023-02-15"
+    },
+    {
+      "id": 28,
+      "userDetails": "Liam Jones",
+      "customerName": "Liam Jones",
+      "registerDate": "2023-05-18",
+      "segment": "NEW"
+    },
+    {
+      "id": 29,
+      "userDetails": "Ethan Jones",
+      "customerName": "Ethan Jones",
+      "registerDate": "2023-01-25",
+      "segment": "NEW"
+    },
+    {
+      "id": 30,
+      "userDetails": "William Jones",
+      "customerName": "William Jones",
+      "registerDate": "2023-03-13",
+      "segment": "NEW"
+    },
+    {
+      "id": 31,
+      "userDetails": "James Garcia",
+      "customerName": "James Garcia",
+      "registerDate": "2023-08-17"
+    },
+    {
+      "id": 32,
+      "userDetails": "James Johnson",
+      "customerName": "James Johnson",
+      "registerDate": "2023-06-05",
+      "segment": "NEW"
+    },
+    {
+      "id": 33,
+      "userDetails": "Ethan Miller",
+      "customerName": "Ethan Miller",
+      "registerDate": "2023-12-15"
+    },
+    {
+      "id": 34,
+      "userDetails": "Ava Smith",
+      "customerName": "Ava Smith",
+      "registerDate": "2023-12-22",
+      "segment": "NEW"
+    },
+    {
+      "id": 35,
+      "userDetails": "Noah Garcia",
+      "customerName": "Noah Garcia",
+      "registerDate": "2023-06-23",
+      "segment": "NEW"
+    },
+    {
+      "id": 36,
+      "userDetails": "Olivia Wilson",
+      "customerName": "Olivia Wilson",
+      "registerDate": "2023-11-07"
+    },
+    {
+      "id": 37,
+      "userDetails": "Emma Smith",
+      "customerName": "Emma Smith",
+      "registerDate": "2023-08-30"
+    },
+    {
+      "id": 38,
+      "userDetails": "Isabella Williams",
+      "customerName": "Isabella Williams",
+      "registerDate": "2023-02-07"
+    },
+    {
+      "id": 39,
+      "userDetails": "Olivia Rodriguez",
+      "customerName": "Olivia Rodriguez",
+      "registerDate": "2023-07-24"
+    },
+    {
+      "id": 40,
+      "userDetails": "James Miller",
+      "customerName": "James Miller",
+      "registerDate": "2023-08-14",
+      "segment": "NEW"
+    },
+    {
+      "id": 41,
+      "userDetails": "Oliver Johnson",
+      "customerName": "Oliver Johnson",
+      "registerDate": "2023-09-10"
+    },
+    {
+      "id": 42,
+      "userDetails": "Mia Smith",
+      "customerName": "Mia Smith",
+      "registerDate": "2023-07-02",
+      "segment": "NEW"
+    },
+    {
+      "id": 43,
+      "userDetails": "William Brown",
+      "customerName": "William Brown",
+      "registerDate": "2023-04-28"
+    },
+    {
+      "id": 44,
+      "userDetails": "Oliver Garcia",
+      "customerName": "Oliver Garcia",
+      "registerDate": "2023-06-15",
+      "segment": "NEW"
+    },
+    {
+      "id": 45,
+      "userDetails": "Mia Johnson",
+      "customerName": "Mia Johnson",
+      "registerDate": "2023-09-25"
+    },
+    {
+      "id": 46,
+      "userDetails": "William Smith",
+      "customerName": "William Smith",
+      "registerDate": "2023-08-09",
+      "segment": "NEW"
+    },
+    {
+      "id": 47,
+      "userDetails": "Oliver Brown",
+      "customerName": "Oliver Brown",
+      "registerDate": "2023-10-31"
+    },
+    {
+      "id": 48,
+      "userDetails": "Mia Garcia",
+      "customerName": "Mia Garcia",
+      "registerDate": "2023-12-18",
+      "segment": "NEW"
+    },
+    {
+      "id": 49,
+      "userDetails": "William Johnson",
+      "customerName": "William Johnson",
+      "registerDate": "2023-11-05"
+    },
+    {
+      "id": 50,
+      "userDetails": "Oliver Smith",
+      "customerName": "Oliver Smith",
+      "registerDate": "2023-03-27",
+      "segment": "NEW"
+    },
+    {
+      "id": 51,
+      "userDetails": "Emily Johnson",
+      "customerName": "Emily Johnson",
+      "registerDate": "2023-09-15"
+    },
+    {
+      "id": 52,
+      "userDetails": "Olivia Brown",
+      "customerName": "Olivia Brown",
+      "registerDate": "2023-07-28",
+      "segment": "NEW"
+    },
+    {
+      "id": 53,
+      "userDetails": "Ethan Smith",
+      "customerName": "Ethan Smith",
+      "registerDate": "2023-06-10"
+    },
+    {
+      "id": 54,
+      "userDetails": "Ava Johnson",
+      "customerName": "Ava Johnson",
+      "registerDate": "2023-12-10",
+      "segment": "NEW"
+    },
+    {
+      "id": 55,
+      "userDetails": "Oliver Miller",
+      "customerName": "Oliver Miller",
+      "registerDate": "2023-05-05"
+    },
+    {
+      "id": 56,
+      "userDetails": "Ethan Brown",
+      "customerName": "Ethan Brown",
+      "registerDate": "2023-09-01"
+    },
+    {
+      "id": 57,
+      "userDetails": "Olivia Smith",
+      "customerName": "Olivia Smith",
+      "registerDate": "2023-07-12",
+      "segment": "NEW"
+    },
+    {
+      "id": 58,
+      "userDetails": "Mia Brown",
+      "customerName": "Mia Brown",
+      "registerDate": "2023-10-05"
+    },
+    {
+      "id": 59,
+      "userDetails": "William Garcia",
+      "customerName": "William Garcia",
+      "registerDate": "2023-11-18",
+      "segment": "NEW"
+    },
+    {
+      "id": 60,
+      "userDetails": "Oliver Jones",
+      "customerName": "Oliver Jones",
+      "registerDate": "2023-12-30"
+    },
+    {
+      "id": 61,
+      "userDetails": "Emily Smith",
+      "customerName": "Emily Smith",
+      "registerDate": "2023-09-05"
+    },
+    {
+      "id": 62,
+      "userDetails": "Oliver Garcia",
+      "customerName": "Oliver Garcia",
+      "registerDate": "2023-07-15",
+      "segment": "NEW"
+    },
+    {
+      "id": 63,
+      "userDetails": "Mia Johnson",
+      "customerName": "Mia Johnson",
+      "registerDate": "2023-10-25"
+    },
+    {
+      "id": 64,
+      "userDetails": "William Smith",
+      "customerName": "William Smith",
+      "registerDate": "2023-08-10",
+      "segment": "NEW"
+    },
+    {
+      "id": 65,
+      "userDetails": "Oliver Brown",
+      "customerName": "Oliver Brown",
+      "registerDate": "2023-11-01"
+    },
+    {
+      "id": 66,
+      "userDetails": "Mia Garcia",
+      "customerName": "Mia Garcia",
+      "registerDate": "2023-12-19",
+      "segment": "NEW"
+    },
+    {
+      "id": 67,
+      "userDetails": "William Johnson",
+      "customerName": "William Johnson",
+      "registerDate": "2023-11-06"
+    },
+    {
+      "id": 68,
+      "userDetails": "Oliver Smith",
+      "customerName": "Oliver Smith",
+      "registerDate": "2023-03-28",
+      "segment": "NEW"
+    },
+    {
+      "id": 69,
+      "userDetails": "Emily Johnson",
+      "customerName": "Emily Johnson",
+      "registerDate": "2023-09-16"
+    },
+    {
+      "id": 70,
+      "userDetails": "Olivia Brown",
+      "customerName": "Olivia Brown",
+      "registerDate": "2023-07-29",
+      "segment": "NEW"
+    },
+    {
+      "id": 71,
+      "userDetails": "Ethan Smith",
+      "customerName": "Ethan Smith",
+      "registerDate": "2023-06-11"
+    },
+    {
+      "id": 72,
+      "userDetails": "Ava Johnson",
+      "customerName": "Ava Johnson",
+      "registerDate": "2023-12-11",
+      "segment": "NEW"
+    },
+    {
+      "id": 73,
+      "userDetails": "Oliver Miller",
+      "customerName": "Oliver Miller",
+      "registerDate": "2023-05-06"
+    },
+    {
+      "id": 74,
+      "userDetails": "Ethan Brown",
+      "customerName": "Ethan Brown",
+      "registerDate": "2023-09-02"
+    },
+    {
+      "id": 75,
+      "userDetails": "Olivia Smith",
+      "customerName": "Olivia Smith",
+      "registerDate": "2023-07-13",
+      "segment": "NEW"
+    }
+  ]
+}
